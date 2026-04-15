@@ -1,4 +1,4 @@
-@media (max-width: 600px) {
+
 body{
     background-color: #fdf8e1;
     margin: 0;
@@ -151,4 +151,9 @@ max-width: 900px;
     font: 1em sans-serif;
     font-style: italic;
 }    
+@media (max-width: 600px){
+    .bow_box {
+        flex-direction: coloum;
+        ga: 8px;
+    }
 }
