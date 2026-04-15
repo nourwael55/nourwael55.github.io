@@ -1,3 +1,4 @@
+@media (max-width:600px){
 body{
     background-color: #fdf8e1;
     margin: 0;
@@ -149,5 +150,5 @@ max-width: 900px;
 .foot{
     font: 1em sans-serif;
     font-style: italic;
-    
+}    
 }
